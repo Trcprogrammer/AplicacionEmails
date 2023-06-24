@@ -1,0 +1,26 @@
+body{
+    background: rgb(129, 101, 101);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.nav-link:hover{
+    color: red;
+    transition: 0.5s ease-in-out;
+   
+
+}
+
+main{
+    margin-top: 60px;
+}
+
+.item{
+    scroll-margin-top: 8ex;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
